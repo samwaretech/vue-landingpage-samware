@@ -1,0 +1,66 @@
+Ukuran website
+Width: 5782px
+Heigh: 3200px
+--------------------------------------------
+Warna dasar:
+#feeae3
+
+"Subscribe" font:
+jenis: Noto Sans JP - Medium
+ukuran: 15,7pt
+warna: #ed1d5e
+
+"Dapatkan Penawaran.." font:
+jenis: Noto Sans JP - Bold
+ukuran: 27,38pt
+warna: #ed1d5e
+
+"Subscribe button" font:
+jenis: Noto Sans JP - Bold
+ukuran: 13,66pt
+warna original: #ffffff
+warna diklik: #ed1d5e
+
+Subscribe button:
+warna original: #ed2e41 (kiri) x #ec0683 (kanan), 90 (putaran)
+warna diklik: #ffffff
+
+"Masukkan emailmu" font:
+jenis: Noto Sans JP - Regular
+ukuran: 18pt
+warna original: #fab2c8
+
+"2020 Samware Tech" font:
+jenis: Noto Sans JP - Regular
+ukuran: 16pt
+warna original: #ffffff
+
+"Tentang Kami" font:
+jenis: Noto Sans JP - Bold
+ukuran: 18pt
+warna original: #ffffff
+
+"Tentang Samware.." font:
+jenis: Noto Sans JP - Regular
+ukuran: 18pt
+warna original: #ffffff
+
+"Layanan" font:
+jenis: Noto Sans JP - Bold
+ukuran: 18pt
+warna original: #ffffff
+
+"Website Statis.." font:
+jenis: Noto Sans JP - Regular
+ukuran: 18pt
+warna original: #ffffff
+
+"Ikuti Kami" font:
+jenis: Noto Sans JP - Bold
+ukuran: 18pt
+warna original: #ffffff
+
+"+62.." font:
+jenis: Noto Sans JP - Regular
+ukuran: 18pt
+warna original: #ffffff

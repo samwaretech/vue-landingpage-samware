@@ -1,0 +1,53 @@
+Ukuran website
+Width: 5782px
+Heigh: 3200px
+--------------------------------------------
+Warna dasar:
+#feeae3
+
+Warna background dasar [atas]:
+sisi kiri: #ee323c
+sisi kanan: #ec0289
+
+Warna background dasar [bawah]:
+satu sisi: #fab2c8
+
+"114" font:
+jenis: Noto Sans JP - Bold
+ukuran: 68pt
+warna: #ed1d5e
+
+"Website Dibangun" font:
+jenis: Noto Sans JP - Bold
+ukuran: 16pt
+warna: #ed1d5e
+
+"76" font:
+jenis: Noto Sans JP - Bold
+ukuran: 68pt
+warna: #ed1d5e
+
+"Aplikasi Dibuat" font:
+jenis: Noto Sans JP - Bold
+ukuran: 16pt
+warna: #ed1d5e
+
+"45293" font:
+jenis: Noto Sans JP - Bold
+ukuran: 68pt
+warna: #ed1d5e
+
+"Baris Kode Ditulis" font:
+jenis: Noto Sans JP - Bold
+ukuran: 16pt
+warna: #ed1d5e
+
+Lihat Harga font:
+jenis: Noto Sans JP - Bold
+ukuran: 11,58pt
+warna original: #ffffff
+warna dikilik: #ee323b
+
+Lihat Harga button:
+warna original: #eb4747 x #d39e29 (gradient), -152
+warna dikilik: #ffffff
