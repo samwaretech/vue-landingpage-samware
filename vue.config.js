@@ -6,5 +6,6 @@ module.exports = {
       iconPaths: {
         msTileImage: 'img/icons/mstile-150x150.png'
       }
-    }
+    },
+    publicPath: '/home/'
   }
