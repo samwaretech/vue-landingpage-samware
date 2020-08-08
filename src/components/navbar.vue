@@ -10,13 +10,16 @@
           <router-link to="/">Home</router-link>
         </li>
         <li>
-          <router-link to="/course">Course</router-link>
+          <a href="#service">Service</a>
         </li>
         <li>
-          <router-link to="/shop">shop</router-link>
+          <a href="#about">About</a>
         </li>
         <li>
-          <router-link to="/user">Login</router-link>
+          <a href="https://blog.samware.io">BLOG</a>
+        </li>
+        <li>
+          <a href="#about">Contact</a>
         </li>
       </ul>
     </div>

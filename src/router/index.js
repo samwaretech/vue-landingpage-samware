@@ -1,7 +1,10 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import admin from '../views/admin/dashboard.vue'
+import service from '../views/service.vue'
+import about from '../views/about.vue'
+import portofolio from '../views/portofolio.vue'
+import faq from '../views/faq.vue'
 
 Vue.use(VueRouter)
 
@@ -12,9 +15,24 @@ Vue.use(VueRouter)
     component: Home
   },
   {
-    path: '/admin',
-    name: 'admin',
-    component: admin
+    path: '/service',
+    name: 'service',
+    component: service
+  },
+  {
+    path: '/about',
+    name: 'about',
+    component: about
+  },
+  {
+    path: '/portofolio',
+    name: 'portofolio',
+    component: portofolio
+  },
+  {
+    path: '/faq',
+    name: 'faq',
+    component: faq
   }
 ]
 

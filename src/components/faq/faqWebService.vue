@@ -1,5 +1,5 @@
 <template>
-  <div class="card tred">nuce</div>
+  <h1>faq WEbservice</h1>
 </template>
 
 <script>
