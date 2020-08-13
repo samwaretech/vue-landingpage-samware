@@ -60,11 +60,11 @@
                   <div class="ps center" style="font-size:14px">
                     <b>Enterprise Resource Planning(ERP)</b>
                   </div>Ketika menjalankan kegiatan operasional,
-setiap entitas atau pelaku usaha pasti
-membutuhkan sebuah sistem
-otomatis yang memudahkan mereka
-untuk mengontrol dan mengevaluasi
-kegiatan operasional secara real time.
+                  setiap entitas atau pelaku usaha pasti
+                  membutuhkan sebuah sistem
+                  otomatis yang memudahkan mereka
+                  untuk mengontrol dan mengevaluasi
+                  kegiatan operasional secara real time.
                 </div>
               </div>
             </div>
@@ -77,11 +77,11 @@ kegiatan operasional secara real time.
                   <div class="ps center" style="font-size:14px">
                     <b>Aplikasi multi platform</b>
                   </div>samware dapat membantu anda untuk
-mengembangkan aplikasi dengan
-mobilitas yang tinggi bagi pelanggan
-kami dengan dukungan penuh dari
-platform windows, android, dan website
-secara real-time di manapun.
+                  mengembangkan aplikasi dengan
+                  mobilitas yang tinggi bagi pelanggan
+                  kami dengan dukungan penuh dari
+                  platform windows, android, dan website
+                  secara real-time di manapun.
                 </div>
               </div>
             </div>
@@ -235,54 +235,34 @@ secara real-time di manapun.
         <div class="grid-three rsv">
           <div>
             <div class="ps">
-              <img
-                src="@/assets/img/logo/sambeer.jpg"
-                alt
-              />
+              <img src="@/assets/img/logo/sambeer.jpg" alt />
             </div>
           </div>
           <div>
             <div class="ps">
-              <img
-                style="border-radius:50%"
-                src="@/assets/img/logo/sambooks.jpg"
-                alt
-              />
+              <img style="border-radius:50%" src="@/assets/img/logo/sambooks.jpg" alt />
             </div>
           </div>
           <div>
             <div class="ps">
-              <img
-                src="@/assets/img/logo/samboks.jpg"
-                alt
-              />
+              <img src="@/assets/img/logo/samboks.jpg" alt />
             </div>
           </div>
         </div>
         <div class="grid-three rsv">
           <div>
             <div class="ps">
-              <img
-                src="@/assets/img/logo/sampro.jpg"
-                alt
-              />
+              <img src="@/assets/img/logo/sampro.jpg" alt />
             </div>
           </div>
           <div>
             <div class="ps">
-              <img
-                src="@/assets/img/logo/samvis.jpg"
-                alt
-              />
+              <img src="@/assets/img/logo/samvis.jpg" alt />
             </div>
           </div>
           <div>
             <div class="ps">
-              <img
-                style="border-radius:50%"
-                src="@/assets/img/logo/tour.jpg"
-                alt
-              />
+              <img style="border-radius:50%" src="@/assets/img/logo/tour.jpg" alt />
             </div>
           </div>
         </div>
@@ -297,11 +277,7 @@ secara real-time di manapun.
           <vue-glide-slide>
             <div class="grid-two rsv">
               <div class="center mts">
-                <img
-                  style="border-radius:50%"
-                  src="@/assets/img/logo/gio.jpg"
-                  alt
-                />
+                <img style="border-radius:50%" src="@/assets/img/logo/gio.jpg" alt />
               </div>
               <div>
                 " Awalnya saya ragu-ragu dengan samware karena start-up yang baru dibangun tentu saja sistem manajemen yang digunakan masih dalam proses pembelajaran. Namun setelah saya mencoba untuk percaya ternyata samware memberikan suatu hal yang diluar ekspetasi saya yaitu hasil yang lebih dari cukup. Fasilitas sistem yang diberikan bisa membuat kita nyaman dan mudah dalam menggunakan. Semoga selalu makmur samware "
@@ -316,11 +292,7 @@ secara real-time di manapun.
           <vue-glide-slide>
             <div class="grid-two rsv">
               <div class="center">
-                <img
-                  style="border-radius:50%"
-                  src="@/assets/img/logo/ilma.jpg"
-                  alt
-                />
+                <img style="border-radius:50%" src="@/assets/img/logo/ilma.jpg" alt />
               </div>
               <div>
                 " Senang sekali akhirnya ada juga penyedia jasa yang bisa memenuhi kebutuhan perusahaan kami di bidang teknologi informasi. Sejauh ini, @sambooks.press masih hanya sebatas custom website saja. Tapi setelah kami lihat-lihat katalognya, sepertinya akan banyak lagi kerja sama kita di kemudian hari. Makasih samware, don't go anywhere! Good job! "
@@ -335,11 +307,7 @@ secara real-time di manapun.
           <vue-glide-slide>
             <div class="grid-two rsv">
               <div class="center">
-                <img
-                  style="border-radius:50%"
-                  src="@/assets/img/logo/lecuz.jpg"
-                  alt
-                />
+                <img style="border-radius:50%" src="@/assets/img/logo/lecuz.jpg" alt />
               </div>
               <div>
                 " Kita samvis mempercayakan project webpage kita ke Samware karena saya kenal dan mengerti kapabilitas mereka. Overall, murah namun berkualitas. Thanks Samware! "
@@ -354,11 +322,7 @@ secara real-time di manapun.
           <vue-glide-slide>
             <div class="grid-two rsv">
               <div class="center">
-                <img
-                  style="border-radius:50%"
-                  src="@/assets/img/logo/anin.jpg"
-                  alt
-                />
+                <img style="border-radius:50%" src="@/assets/img/logo/anin.jpg" alt />
               </div>
               <div>
                 " Mau ngenalin neh samware buat kalian yg lagi butuh ngembangin usaha di website dan aplikasi, kita dari SAMPRO juga baru banget order bikin website biar makin digital. Pelayanan oke, prosesnya bertahap daaaaan hasilnya oke punyaak! Yuk langsong kepoin dia di instagram😉 "
@@ -379,7 +343,9 @@ secara real-time di manapun.
       style="background: linear-gradient(to bottom, #ed1073 38%, #ee2a47 100%);"
     >
       <div class="tgrays container" style="padding:60px 0px">
-        <div style="font-size:22px"><b>Samware.io</b></div>
+        <div style="font-size:22px">
+          <b>Samware.io</b>
+        </div>
         <span
           class="tgrays"
         >Samware merupakan partner digital untuk solusi bisnismu, Samware hadir untuk memenuhi kebutuhan optimasi bisnis mulai dari UMKM, Manufactur, Cafe dan lain sebagaianya. Jangan pernah ragu untuk berkonsultasi perihal teknologi pada kami secara gratis tanpa dipungut biaya apapun.</span>
@@ -403,9 +369,11 @@ secara real-time di manapun.
           <div>
             <b>Contac US</b>
             <ul>
-              <li><i class="fas fa-phone"> </i> +62 852-3188-8456</li>
+              <li>
+                <i class="fas fa-phone"></i> +62 852-3188-8456
+              </li>
               <li style="margin-top:10px">halo@samware.io</li>
-              <li tyle="margin-top:10px">Malang, Indonesia</li>
+              <li style="margin-top:10px">Malang, Indonesia</li>
             </ul>
           </div>
         </div>
@@ -479,5 +447,4 @@ section {
   background-color: #ec0f72;
   color: white;
 }
-
 </style>
