@@ -404,7 +404,7 @@ secara real-time di manapun.
             <b>Contac US</b>
             <ul>
               <li><i class="fas fa-phone"> </i> +62 852-3188-8456</li>
-              <li style="margin-top:10px">support@samware.io</li>
+              <li style="margin-top:10px">halo@samware.io</li>
               <li tyle="margin-top:10px">Malang, Indonesia</li>
             </ul>
           </div>

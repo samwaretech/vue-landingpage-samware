@@ -1,5 +1,5 @@
 <template>
-  <vue-glide :type="glideType" :breakpoints="breakpoin">
+  <vue-glide :perView="1" :autoplay="2000">
     <vue-glide-slide class="left">
       <div class="ps">
         <b>Website Statis</b>
